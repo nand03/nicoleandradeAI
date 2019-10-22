@@ -1,4 +1,6 @@
-# Artificial Intelligence Homework 1
+# Artificial Intelligence 
+
+# Homework 1
 
 Problem 1: (https://colab.research.google.com/drive/1DzaeB88e-8YQMDbzRxogh-0Bhgetxa2h)
 
