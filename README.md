@@ -15,3 +15,7 @@ Problem 1: ()
 Problem 2: (https://colab.research.google.com/drive/1-qRa-VQ1IQJxoDvMBvRtqXQdX0ma0PiS)
 
 Problem 3: (https://colab.research.google.com/drive/1cSUTkW4nt4zJhQ_fqRZHFG6TfG9UQG2Y)
+
+# Homework 3
+
+(https://colab.research.google.com/drive/1wOF7no1mNBp8h3cQokFgIpkPTsH_NZFa)
